@@ -67,9 +67,7 @@ switch ($method) {
             }
             echo json_encode($rows);
         } else {
-            echo "No
-
- users found.";
+            echo "No users found.";
         }
         break;
     case 'POST':
