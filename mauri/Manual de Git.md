@@ -104,9 +104,7 @@ En este manual, te guiaré a través de los conceptos básicos de Git, una herra
    git push origin nombre-rama-local
    ```
 
-4. Eliminar una rama rem
-
-ota:
+4. Eliminar una rama remota:
 
    ```bash
    git push origin --delete nombre-rama-remota
